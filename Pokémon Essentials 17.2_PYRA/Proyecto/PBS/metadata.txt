@@ -9,7 +9,6 @@ WildBattleBGM=002-Battle02.mid
 [001]
 # Intro
 [002]
-# Ruta #2
 MapPosition=0,13,12
 Outdoor=true
 ShowArea=true
@@ -18,7 +17,6 @@ BattleBack=IndoorB
 MapPosition=0,13,12
 HealingSpot=2,8,8
 [004]
-# Ruta #1
 SnapEdges=true
 BattleBack=
 Bicycle=true
@@ -75,10 +73,13 @@ MapPosition=0,14,8
 Outdoor=true
 ShowArea=true
 [023]
+# Ruta #1
+SnapEdges=true
 MapPosition=0,15,8
 Outdoor=true
 ShowArea=true
 [024]
+# Ruta #2
 MapPosition=0,15,8
 HealingSpot=23,11,15
 [025]

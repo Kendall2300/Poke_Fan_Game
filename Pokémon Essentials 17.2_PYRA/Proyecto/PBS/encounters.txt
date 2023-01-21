@@ -1,9 +1,9 @@
 #########################
-004 # Ruta #2
+023 # Ruta #2
 12,10,2
 Land
 STARLY,3,5
-BIDOFF,3,5
+BIDOOF,3,5
 KRICKETOT,3,5
 SHINX,3,5
 SHINX,3,5
